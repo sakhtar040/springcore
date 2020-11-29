@@ -32,6 +32,6 @@ public class AnnotationLFC {
 
     @PreDestroy
     public void end(){
-        System.out.println("End Annotation---");
+        System.out.println("End Annotation----");
     }
 }
