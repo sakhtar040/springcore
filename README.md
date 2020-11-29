@@ -1,1 +1,1 @@
-# springcore
+# Spring Framework Core Fundamentals
